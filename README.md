@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ponpenw
 - 👀 I’m interested in combining technology and humanity together.
 - 🌱 I’m currently learning coding and goal setting.
-- 💞️ I’m looking to collaborate on new learning, new skills, and become new me with the passion I have.
+- 💞️ I’m looking to collaborate on new learning, new skills, and become a new me with the passion I have.
 - 📫 How to reach me ....
 
 <!---
